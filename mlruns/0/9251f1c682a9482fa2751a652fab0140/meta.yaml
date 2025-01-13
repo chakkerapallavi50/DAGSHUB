@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pallavi.chakkera/MLOPS/mlruns/0/9251f1c682a9482fa2751a652fab0140/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9251f1c682a9482fa2751a652fab0140
+run_name: clean-gull-16
+run_uuid: 9251f1c682a9482fa2751a652fab0140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736748238496
+status: 1
+tags: []
+user_id: pallavi.chakkera
